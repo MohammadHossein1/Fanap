@@ -172,7 +172,7 @@ body {
 
 .hpspan {
     padding-top: 64px;
-    margin-left: 9px;
+    margin-left: 8px;
 }
 
 .hpmenu {}
@@ -193,3 +193,5 @@ body {
 }
 
 .hpbox {}
+
+.spanbottom {}
